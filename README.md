@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinmaharana)](https://github.com/sachinmaharana/github-readme-stats)
+### nothing to see here 👋
 
 
 
