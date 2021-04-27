@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinmaharana)](https://github.com/sachinmaharana/github-readme-stats)
+
+
 
 <!--
 **SachinMaharana/SachinMaharana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
